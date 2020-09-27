@@ -5,10 +5,9 @@
 [![Nightly Devnet Release](https://img.shields.io/endpoint.svg?color=blue&style=flat&logo=GitHub&url=https://raw.githubusercontent.com/filecoin-project/go-filecoin-badges/master/nightly-devnet.json)](https://github.com/filecoin-project/go-filecoin/releases)
 [![Staging Devnet Release](https://img.shields.io/endpoint.svg?color=brightgreen&style=flat&logo=GitHub&url=https://raw.githubusercontent.com/filecoin-project/go-filecoin-badges/master/staging-devnet.json)](https://github.com/filecoin-project/go-filecoin/releases)
 
-## June 2020 Maintainership Status
-go-filecoin is currently [in between maintainers]( http://filecoin.io/blog/roadmap-update-june-2020/#what-s-next ).  If you are interested in maintaining go-filecoin please apply to [this RFP]( https://github.com/filecoin-project/devgrants/issues/140)
+Go-filecoin is an implementation of the Filecoin Distributed Storage Network. For more details  about Filecoin, checkout the [Filecoin Spec](https://spec.filecoin.io).
 
-The original Filecoin node implementation in Go.
+Go-filecoin is the first filecoin implementation originially initiated and developed by Protocol Labs, and now is maintained by Filecoin communities. See [maintainers] to  get more information.
 
 __Questions or problems with go-filecoin? [Ask the community first](#community)__. Your problem may already be solved.
 
@@ -197,6 +196,16 @@ Here are a few places to get help and connect with the Filecoin community:
 - [Filecoin Specification](https://github.com/filecoin-project/specs) - how Filecoin is supposed to work
 
 Looking for even more? See the full rundown at [filecoin-project/community](https://github.com/filecoin-project/community).
+
+## Maintenance
+
+Go-filecoin is now maintained by [IPFS-Force Community](https://github.com/ipfs-force-community)
+
+---
+
+Maintenancer: @steven004, @diwufeiwen, hunjixin, felix00000
+
+Repo is open for anyone to submit issues and PRs.
 
 ## License
 
