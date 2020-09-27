@@ -201,11 +201,9 @@ Looking for even more? See the full rundown at [filecoin-project/community](http
 
 Go-filecoin is now maintained by [IPFS-Force Community](https://github.com/ipfs-force-community)
 
----
+Maintenaners: @steven004, @diwufeiwen, hunjixin, felix00000
 
-Maintenancer: @steven004, @diwufeiwen, hunjixin, felix00000
-
-Repo is open for anyone to submit issues and PRs.
+This repo is open for anyone to submit issues and PRs.
 
 ## License
 
